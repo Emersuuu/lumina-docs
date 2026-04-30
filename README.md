@@ -10,7 +10,7 @@ o bot de inteligência e gestão para comunidades Discord.
 | Documento | Link |
 |---|---|
 | 📋 Termos de Serviço | [Ver documento](https://github.com/Emersuuu/lumina-docs/blob/main/termos-de-servico-lumina.md) |
-| 🔒 Política de Privacidade | [Ver documento](./politica-de-privacidade.md) |
+| 🔒 Política de Privacidade | [Ver documento](https://github.com/Emersuuu/lumina-docs/blob/main/politica-de-privacidade-lumina.md) |
 | 📜 Termos de Uso | [Ver documento](./termos-de-uso.md) |
 
 ---
