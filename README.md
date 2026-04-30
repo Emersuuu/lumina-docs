@@ -1,5 +1,7 @@
 # 💠 Lumina — Documentação Oficial
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Emersuuu/lumina-docs/main/lumina_perfil_discord.png" width="200" alt="Lumina"/>
+</p>
 Bem-vindo ao repositório oficial de documentação da **Lumina**, 
 o bot de inteligência e gestão para comunidades Discord.
 
